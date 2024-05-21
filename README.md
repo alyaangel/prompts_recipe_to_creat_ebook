@@ -1,5 +1,5 @@
 
-![Ash e Pikachu](https://www.imagemhost.com.br/image/WiM9e)
+[![Captura-de-tela-21-5-2024-104157.jpg](https://i.postimg.cc/Dzbsrz68/Captura-de-tela-21-5-2024-104157.jpg)](https://postimg.cc/3yYd7YPT)
 
 -------------
 
