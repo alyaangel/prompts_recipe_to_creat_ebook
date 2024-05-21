@@ -11,8 +11,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="outputs/Pokecode(1).pdf" title="View PDF now"> 📕Clique aqui para ler</a>
-
+[📕Clique aqui para ler](https://github.com/angeluuy/prompts_recipe_to_creat_ebook/blob/main/outputs/Pokecode%20(1).pdf)
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
